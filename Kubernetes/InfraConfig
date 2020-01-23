@@ -1,0 +1,2 @@
+For deployment automation to work properly for kubernetes, the infrastructure needs to be setup correct.
+this file describes the options for configuration
