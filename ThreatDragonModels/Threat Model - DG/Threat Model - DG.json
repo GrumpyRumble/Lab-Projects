@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Threat Model - DG",
+    "owner": "Jim Miller",
+    "description": "This is a threat model for DataGuard. it's purpose is to overlay MITRE ATT&CK framework over the system architecture to identify vulnerabilities in the application."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
